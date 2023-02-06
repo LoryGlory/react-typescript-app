@@ -1,3 +1,4 @@
+// data model for Todo class used in App.tsx
 class Todo {
     id: string;
     text: string;
